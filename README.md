@@ -34,3 +34,5 @@
 
 <br>
 <hr>
+
+![Snake animation](https://github.com/BrunoL28/BrunoL28/blob/output/github-contribution-grid-snake.svg)
