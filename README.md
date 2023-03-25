@@ -1,7 +1,7 @@
 ### Hello World!  👋:earth_americas:
 
-- 🌱 Sou Dev Wordpress atualmente
-- 🔭 Me aperfeiçoando para Dev Front-End
+- 🌱 Estou no 3° período de Engenharia de Sistemas na UFMG
+- 🔭 Sou Dev Wordpress atualmente
 - 📫 Como me encontrar:
 
 <div> 
