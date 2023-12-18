@@ -1,7 +1,7 @@
 ### Hello World!  👋:earth_americas:
 
-- 🌱 Estou no 3° período de Engenharia de Sistemas na UFMG
-- 🔭 Sou Dev Wordpress atualmente
+- 🌱 Estou no 5° período de Engenharia de Sistemas na UFMG
+- 🔭 Aspirante a desenvolvedor Back-End
 - 📫 Como me encontrar:
 
 <div> 
@@ -30,6 +30,8 @@
   <img align="center" alt="Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          >
 </div>
 
 <br>
