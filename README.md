@@ -1,6 +1,6 @@
 ### Hello World!  👋
 
-- 🌱 Estou no 6° período de Engenharia de Sistemas na UFMG
+- 🌱 Estou no 8° período de Engenharia de Sistemas na UFMG
 - 🔭 Desenvolvedor Back-End
 - 📫 Como me encontrar:
 
