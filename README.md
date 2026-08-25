@@ -21,10 +21,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoL28&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="180" />
+      <img src="https://github-stats-extended.vercel.app/api?username=BrunoL28&show_icons=true&include_all_commits=true&theme=shadow_blue" alt="GitHub Stats" height="180" />
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrunoL28&layout=compact&custom_title=Tecnologias&langs_count=8&theme=react&exclude_forks=false&token=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" alt="Top Languages" height="180" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=BrunoL28&langs_count=5&theme=shadow_blue" alt="Top Languages" height="180" />
     </td>
   </tr>
 </table>
@@ -93,9 +93,11 @@
 <div align="center">
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"/></a> &nbsp;
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"/></a> &nbsp;
-  <a href="https://aws.amazon.com/amplify/" target="_blank"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40"/></a> &nbsp;
+  <a href="https://azure.microsoft.com/pt-br" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="azure" width="40"/></a> &nbsp;
   <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"/></a> &nbsp;
-  <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40"/></a>
+  <a href="https://argoproj.github.io/cd/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" alt="argocd" width="40"/></a> &nbsp;
+  <a href="https://aws.amazon.com/amplify/" target="_blank"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40"/></a> &nbsp;
+  <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40"/></a>    
 </div>
 
 <br />
