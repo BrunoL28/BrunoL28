@@ -24,7 +24,7 @@
       <img src="https://github-stats-extended.vercel.app/api?username=BrunoL28&show_icons=true&include_all_commits=true&theme=shadow_blue" alt="GitHub Stats" height="180" />
     </td>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=BrunoL28&langs_count=5&theme=shadow_blue" alt="Top Languages" height="180" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=BrunoL28&langs_count=5&theme=shadow_blue" alt="Top Languages" />
     </td>
   </tr>
 </table>
