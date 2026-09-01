@@ -12,7 +12,7 @@
 - 🤝 I’m looking for help with advanced Kubernetes patterns and scalable cloud architecture design
 - 💬 Ask me about React, Next.js, Node.js servers, Python (Flask, FastAPI, Playwright) and n8n automation workflows
 - 📫 How to reach me brunolima280103@gmail.com
-- 📄 Know about my experiences [Here](https://docs.google.com/document/d/1uqHE9aIL473nTL1PN3SbCZ_2BW8HBX9-_bT7sTT_mIk/edit?usp=sharing)
+- 📄 Know about my experiences [Here](https://docs.google.com/document/d/1j4uzL4YOfWH-n7RnCi9W_YMJYsFFE_XOwIA2tVDaaJ0/edit?usp=sharing)
 - ⚡ Fun fact I turn complex business processes into elegant automated solutions, because why do manually what code can do better?
 
 <br />
